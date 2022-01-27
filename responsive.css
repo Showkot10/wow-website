@@ -1,0 +1,140 @@
+@media(max-width:1080px){
+    html{
+        font-size:49.5%;
+    }
+}
+@media(max-width:850px){
+    html{
+        font-size:40.5%;
+    }
+    .side-bar{
+        width:100%;
+    }
+        
+    #search-icon{
+        font-size: 4vw;
+        margin-right: 4vw;
+    }
+    #search-closer{
+        font-size: 4vw;
+        margin-right: 4vw;
+       
+    }
+    .manu-btn{
+      
+        font-size: 4vw;
+       
+    }
+    
+}
+@media(max-width:650px){
+    html{
+        font-size:40.5%;
+    }
+    #search-icon{
+        font-size: 5vw;
+        margin-right: 6vw;
+    }
+    #search-closer{
+        font-size: 5vw;
+        margin-right: 6vw;
+       
+    }
+    .manu-btn{
+      
+        font-size: 5vw;
+       
+    }
+    .featured{
+        font-size: 1.7rem;
+        margin-top: 7rem;
+       
+    }
+    
+}
+@media(max-width:500px){
+    html{
+        font-size:35.5%;
+    }
+    #search-icon{
+        font-size: 7vw;
+        margin-right: 6vw;
+    }
+    #search-closer{
+        font-size: 7vw;
+        margin-right: 6vw;
+       
+    }
+    .manu-btn{
+      
+        font-size: 7vw;
+       
+    }
+    .search-submit{
+        height: 5rem;
+    }
+    .search-form{
+       
+        height: 5rem;
+    }
+    .featured .featured-slider .box{
+       
+        width:85rem;
+        
+    }
+}
+@media(max-width:400px){
+    html{
+        font-size:33.5%;
+    }
+    #search-icon{
+        font-size: 7vw;
+        margin-right: 6vw;
+    }
+    #search-closer{
+        font-size: 7vw;
+        margin-right: 6vw;
+       
+    }
+    .manu-btn{
+      
+        font-size: 7vw;
+       
+    }
+    
+}
+@media(max-width:350px){
+    html{
+        font-size:32.5%;
+    }
+    #search-icon{
+        font-size: 8vw;
+        margin-right: 6vw;
+    }
+    #search-closer{
+        font-size: 8vw;
+        margin-right: 6vw;
+       
+    }
+    .manu-btn{
+      
+        font-size: 8vw;
+       
+    }
+    .search-submit{
+        height: 6rem;
+    }
+    .search-form{
+       
+        height: 6rem;
+        margin-right: 1.5rem;
+    }
+    .featured .featured-slider .box{
+       
+        width:64rem;
+        
+    }
+    .featured{
+        font-size: 3rem;
+    }
+}
